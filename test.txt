@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello! another
+=======
+hello! again
+>>>>>>> feature
 
 Anh here we go with commit #2!
